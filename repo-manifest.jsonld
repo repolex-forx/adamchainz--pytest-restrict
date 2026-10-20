@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-restrict/commit/4deef6fed138c6380ca3855313a98ab4805e4b1c",
       "git:hexsha": "4deef6fed138c6380ca3855313a98ab4805e4b1c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-restrict/commit/3218d75d70cf58bf72bcfd8e3bca886f11bc76b9",
