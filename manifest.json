@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "adamchainz",
+  "repo": "pytest-restrict",
+  "versions": [
+    {
+      "commit": "4deef6fed138c6380ca3855313a98ab4805e4b1c",
+      "parsed_at": "2026-10-20T09:48:23.007672+00:00",
+      "filetree": "filetree/4deef6fed138c6380ca3855313a98ab4805e4b1c.nq.gz",
+      "blobs": [
+        "blob/2a7f84f54867d02714727f82eef95d3be939d666.nq.gz",
+        "blob/f42ca091a2bc6228d5146fee576ed4e7c622fbae.nq.gz",
+        "blob/205ab9ad9df4ab629d1b7b8d8a72b41f44d8824c.nq.gz",
+        "blob/826cf1c573112a7ecde6cb65421a3ebc0491066c.nq.gz",
+        "blob/40f4ac757715bb1a8c355eda9124141fdda3aeff.nq.gz",
+        "blob/438d629c3ce988e3afffa71110b9660853d38549.nq.gz",
+        "blob/30acc83b6797da94e6f047ba88ccfb5b934894ee.nq.gz",
+        "blob/3e816915c4f7bbdb111ec3f3c07e5bb7cc0a0742.nq.gz",
+        "blob/cc4545a1222f182b8ac8205e6da7f2ec561b6384.nq.gz",
+        "blob/3ba13e0cec6cbbfd462e9ebf529dd2093148cd69.nq.gz",
+        "blob/22ddbb118475b52ce8ecba56d9ec45009923da58.nq.gz",
+        "blob/f0a2abfa16717167b289159a2f38a41fde8a3457.nq.gz",
+        "blob/cbe1d62d353e1468867c1ac699e6a64411e200d3.nq.gz",
+        "blob/0f3524a3d8c34af10c39aaf4199c2af5e0bfe1e4.nq.gz",
+        "blob/93acb639926ccf42e9a2f76f02419eeaf0405c3a.nq.gz",
+        "blob/7f1d007c01048570d774e58f46203d3e92056c39.nq.gz",
+        "blob/05d6d11c2ddffe38c4dfddc648609e39e217b0be.nq.gz",
+        "blob/cdd89c5f491c97cf589eb332c35b72e4d4bec447.nq.gz",
+        "blob/888154126e0bffdd382468ea10780ec9cd190469.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
