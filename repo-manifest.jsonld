@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-restrict/commit/4deef6fed138c6380ca3855313a98ab4805e4b1c",
       "git:hexsha": "4deef6fed138c6380ca3855313a98ab4805e4b1c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T09:50:21.575599+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-restrict/commit/3218d75d70cf58bf72bcfd8e3bca886f11bc76b9",
